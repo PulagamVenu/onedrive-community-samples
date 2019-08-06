@@ -7,7 +7,7 @@
     "includeClientSideAssets": true,
     "webApiPermissionRequests": [
       {
-        "resource": "Microsoft.Graph",
+        "resource": "Microsoft Graph",
         "scope": "Files.Read.All"
       }
     ]
